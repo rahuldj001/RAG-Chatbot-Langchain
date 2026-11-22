@@ -169,3 +169,4 @@ harry_potter_dataset
 storage
 result
 .conda_config
+uv.lock
