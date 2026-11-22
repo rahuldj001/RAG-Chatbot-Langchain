@@ -1,0 +1,6 @@
+{
+  "faithfulness": 1.0,
+  "answer_relevancy": 1.0,
+  "avg_generation_latency_ms": 12578.308459999971,
+  "samples_evaluated": 5
+}
